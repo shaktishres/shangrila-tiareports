@@ -1,0 +1,27 @@
+{
+  "name": "shangrila-tiareports",
+  "version": "1.0.0",
+  "description": "Javacriptt Library for aggregate reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharadcp/shangrila-tiareports.git"
+  },
+  "keywords": [
+    "shangrila-tiareports"
+  ],
+  "author": "Sharad Chandra Pyakurel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharadcp/shangrila-tiareports/issues"
+  },
+  "test": "./node_modules/.bin/mocha",
+  "homepage": "https://github.com/sharadcp/shangrila-tiareports#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
